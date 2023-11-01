@@ -11,6 +11,11 @@ package ejemplo01;
  */
 public class Ejemplo04 {
     public static void main(String[] args) {
+        /*
+        println vs print al poner print dars un mensaje y al finalizar hara un 
+        salto de linea al poner print se escribira sin hacer un salto de linea
+        
+        */
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
